@@ -1,1 +1,1 @@
-# diadosprofessores
+# diadoprofessor
